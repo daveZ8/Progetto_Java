@@ -21,7 +21,7 @@ public class MainTester{
 	 * main: metodo main.
 	 * Serve per creare un oggetto di tipo {@link Frame}, renderlo visibile e impostargli un {@link Terminator}
 	 *  
-	 * @param args: Argomenti passati da riga di comando (non utilizzato)
+	 * @param args: Argomenti passati da riga di comando
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
